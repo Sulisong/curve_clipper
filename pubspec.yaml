@@ -6,7 +6,7 @@ repository: https://github.com/shervin-h/curve_clipper
 issue_tracker: https://github.com/shervin-h/curve_clipper/issues
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.1.5 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
